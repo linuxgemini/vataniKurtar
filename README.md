@@ -7,4 +7,4 @@ Ne bu?
 
 Kullanabilir miyim bunu kendim?
 --------
-**Hayır. Hiçbir şekilde bunu kendi işlerinizde kullanamazsınız. Ancak linki (http://bayrak.ustatech.cf) istediğiniz yerde kime ait olduğunu belirterek paylaşabilirsiniz.**
+**Evet, ancak bana atıfta bulunmanız gerekli. NOTICE dosyasına bakın. Sosyal medyada paylaşırsanız linki (http://bayrak.ustatech.cf) ve kimin yaptığını belirterek paylaşabilirsiniz.**
